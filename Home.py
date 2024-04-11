@@ -11,7 +11,7 @@ st.title("Analysis of Energy Performance of Warm Welcome Spaces")
 
 st.header("About this app")
 
-st.write("This app has been developed to allow Warm Welcome spaces and partners to access the analysis and to view the data in more detail. Currently the main operational space, found in the sidebar, shows EPC data by space type. It is currently intended that this will expand to an individual space lookup, as well as some analysis of DEC certificates.")
+st.write("This app has been developed to allow Warm Welcome spaces and partners to access the analysis and to view the data in more detail. Currently the main operational page, found in the sidebar, shows EPC data by space type. It is currently intended that this will expand to an individual space lookup, as well as some analysis of DEC certificates.")
 
 st.success("If you have any questions about the data please get in touch at: elisha.zissman@sibgroup.org.uk")
 
