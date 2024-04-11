@@ -238,7 +238,7 @@ st.write(fig)
 
 
 
-st.write("### Summary of Space & MEES")
+st.write("### Main Heating Fuel")
 grouped_data = filtered_data_2.groupby('MAIN_HEATING_FUEL')['ID'].count().reset_index(name='Count')
 
 # Calculating percentage of each count out of the total count
